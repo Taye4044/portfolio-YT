@@ -8,6 +8,9 @@ body{
     font-family: "monospace", sans-serif;
     background-color: black;
 }
+.container{
+    background-color: white;
+}
 
 .font-primary{
     color: #00ABAE;
